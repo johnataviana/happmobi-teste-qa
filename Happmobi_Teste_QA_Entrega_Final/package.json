@@ -1,0 +1,15 @@
+{
+  "name": "happmobi-qa-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Teste técnico QA - Happmobi / HappLearning - Módulo de Usuários",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}

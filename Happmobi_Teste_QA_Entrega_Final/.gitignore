@@ -1,0 +1,8 @@
+node_modules/
+cypress.env.json
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+.DS_Store
+.idea/
+*.log
